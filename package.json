@@ -2,7 +2,7 @@
   "name": "electron-tetris",
   "version": "0.1.0",
   "main": "main.js",
-  "dependencies": {
-    "monaco-loader": "^0.8.2"
-  }
-}
+ "devDependencies": {
+ "electron": "^1.4.3",
+ "electron-packager": "^8.1.0"
+ }
